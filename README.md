@@ -31,6 +31,8 @@ systems work using **Socket.io**.
 - Upload short video loops
 
 - Only video content is allowed for loops
+  
+- **Real-time updates:** likes and comments appear instantly
 
 - Smooth, fast, reel-like scrolling experience
 
