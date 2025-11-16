@@ -26,62 +26,62 @@ systems work using **Socket.io**.
 
 - View anyone’s profile and their posts
 
-🎥 Loops (Reels-style Videos)
+### **🎥 Loops (Reels-style Videos)**
 
-Upload short video loops
+- Upload short video loops
 
-Only video content is allowed for loops
+- Only video content is allowed for loops
 
-Smooth, fast, reel-like scrolling experience
+- Smooth, fast, reel-like scrolling experience
 
-📸 Stories
+### **📸 Stories**
 
-Upload photos and videos as stories
+- Upload photos and videos as stories
 
-Story viewer count available
+- Story viewer count available
 
-Instant real-time story updates
+- Instant real-time story updates
 
-👥 Follow System & Search
+### **👥 Follow System & Search**
 
-Follow / Unfollow users
+- Follow / Unfollow users
 
-Search users by name
+- Search users by name
 
-View any user’s profile
+- View any user’s profile
 
-💬 Real-Time Chat
+### **💬 Real-Time Chat**
 
-One-to-one messaging
+- One-to-one messaging
 
-Online users list updates live
+- Online users list updates live
 
-Messages appear instantly with no refresh needed
+- Messages appear instantly with no refresh needed
 
-⚡ Real-Time Experience Powered by Socket.io
+### **⚡ Real-Time Experience Powered by ```Socket.io```**
 
 Socket.io plays a major role in making Niva feel fast and modern.
 It handles all real-time communication between users across the app:
 
-✔ Instant likes & comments
+### ✔ Instant likes & comments
 
 Whenever someone likes or comments on a post or loop, it appears immediately for all users without refreshing the page.
 
-✔ Live notifications
+### ✔ Live notifications
 
-Notifications for likes, comments, follows, and messages update instantly.
+Notifications for likes, comments update instantly.
 
-✔ Real-time messages
+### ✔ Real-time messages
 
-Chats update live, allowing smooth and fast conversations.
+Chats and Photo Share update live, allowing smooth and fast conversations.
 
-✔ Online status tracking
+### ✔ Online status tracking
 
-See who is online in real time through Socket.io events.
+See who is online in real time through **```Socket.io```** events.
 
 Basically, Socket.io is responsible for the “live social media” feel that makes Niva interactive and dynamic.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 MongoDB
 
@@ -93,23 +93,23 @@ Node.js
 
 Socket.io – real-time communication across the entire app
 
-🎯 Why I Built Niva
+### 🎯 Why I Built Niva
 
 I created Niva to challenge myself and explore how large-scale social platforms work.
 Building features like real-time chat, live notifications, and instant updates helped me 
 understand real-world application behavior and strengthened my MERN + Socket.io skills.
 
-🏁 How to Run the Project
+- 🏁 How to Run the Project
 1️⃣ Fork the repository
 
 Fork the project from GitHub.
 
-2️⃣ Backend Setup
+- 2️⃣ Backend Setup
 cd backend
 npm install
 npm run dev
 
-3️⃣ Frontend Setup
+- 3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
@@ -117,7 +117,7 @@ npm run dev
 
 Your project will now run locally.
 
-❤️ Conclusion
+### ❤️ Conclusion
 
 Niva is a personal learning project where I tried to bring together all core social 
 media features — posts, stories, loops, messaging, notifications, follow system — with 
