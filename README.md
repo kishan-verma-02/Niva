@@ -101,23 +101,23 @@ I created Niva to challenge myself and explore how large-scale social platforms 
 Building features like real-time chat, live notifications, and instant updates helped me 
 understand real-world application behavior and strengthened my MERN + Socket.io skills.
 
-- 🏁 How to Run the Project
-1️⃣ Fork the repository
+**🏁 How to Run the Project**
+- 1️⃣ Fork the repository
 
-Fork the project from GitHub.
+- Fork the project from GitHub.
 
-- 2️⃣ Backend Setup
-cd backend
-npm install
-npm run dev
+**2️⃣ Backend Setup**
+- cd backend
+- npm install
+- npm run dev
 
-- 3️⃣ Frontend Setup
-cd frontend
-npm install
-npm run dev
+**3️⃣ Frontend Setup**
+- cd frontend
+- npm install
+- npm run dev
 
 
-Your project will now run locally.
+```Your project will now run locally.```
 
 ### ❤️ Conclusion
 
