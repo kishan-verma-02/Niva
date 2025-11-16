@@ -1,16 +1,16 @@
-Niva – A Modern Social Media Application
+# Niva – A Modern Social Media Application
 
 Niva is a complete social media platform where users can upload posts, share stories, 
 watch loop videos (similar to reels), and chat in real time.
 I built this project to improve my MERN stack skills and to learn how real-time social media 
 systems work using Socket.io.
 
-The main focus was to create a smooth, modern, and interactive experience — just like an actual social media app.
+``` The main focus was to create a smooth, modern, and interactive experience — just like an actual social media app. ```
 
 🚀 Features
 🔐 Authentication
 
-User Sign Up & Sign In
+**User Sign Up & Sign In**
 
 Forgot Password support
 
