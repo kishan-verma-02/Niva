@@ -62,7 +62,7 @@ systems work using **Socket.io**.
 
 ### **⚡ Real-Time Experience Powered by ```Socket.io```**
 
-Socket.io plays a major role in making Niva feel fast and modern.
+Socket.io plays a role in making Niva feel fast and modern.
 It handles all real-time communication between users across the app:
 
 ### ✔ Instant likes & comments
