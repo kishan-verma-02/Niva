@@ -7,24 +7,24 @@ systems work using **Socket.io**.
 
 ``` The main focus was to create a smooth, modern, and interactive experience — just like an actual social media app. ```
 
-##🚀 Features
-###**🔐 Authentication**
+## 🚀 Features
+### **🔐 Authentication**
 
--User Sign Up & Sign In
+- User Sign Up & Sign In
 
--Forgot Password support
+- Forgot Password support
 
--Create and edit your own profile
+- Create and edit your own profile
 
-###**🖼️ Posts**
+### **🖼️ Posts**
 
--Upload photos or videos
+- Upload photos or videos
 
--Like, comment, and save posts
+- Like, comment, and save posts
 
--**Real-time updates:** likes and comments appear instantly
+- **Real-time updates:** likes and comments appear instantly
 
-View anyone’s profile and their posts
+- View anyone’s profile and their posts
 
 🎥 Loops (Reels-style Videos)
 
